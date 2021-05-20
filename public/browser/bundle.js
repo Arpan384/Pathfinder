@@ -2998,3 +2998,4 @@ module.exports = weightedSearchAlgorithm;
 
 },{"./astar":13}]},{},[4]);
 
+document.getElementById("skipButton").click()
